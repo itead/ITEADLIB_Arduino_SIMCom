@@ -1,4 +1,4 @@
-GSM/GPRS & GPS Shield Library for modules using SIM900/SIM908
+GSM GPRS GPS Bluetooth for SIM800/808/900/908 Shield Library
 ======
 NOTE: This repo has been migrated from google code repo: http://code.google.com/p/gsm-shield-arduino/
 
