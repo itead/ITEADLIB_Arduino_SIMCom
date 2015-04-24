@@ -1,0 +1,35 @@
+/*
+ *If your board is "Gboard Pro 800" you should edit the following files  
+ */
+
+step1: HWSerial.cpp
+/*
+ *    all the string "Serial1" should be changed to "Serial2" ,for example:
+ *    HWSerial::HWSerial(){
+ *           // Serial1.begin(9600);
+ *          Serial2.begin(9600);
+ *	  }
+ */
+
+step2: HWSerial.h
+/*
+ *     //#define UNO
+ *     #define MEGA
+ *
+ */
+ 
+step3: GSM.h 
+/*
+ *     //#define UNO
+ *     #define MEGA
+ *
+ */
+ 
+step4: GSM.cpp
+/*
+ *    //#define _GSM_TXPIN_ 2 
+ *    //#define _GSM_RXPIN_ 3
+ *    #define _GSM_TXPIN_ 16 
+ *    #define _GSM_RXPIN_ 17
+ */ 
+ 
