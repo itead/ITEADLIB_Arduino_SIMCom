@@ -1,21 +1,22 @@
 GSM GPRS GPS Bluetooth for SIM800/808/900/908 Shield Library
 ======
-NOTE: This repo has been migrated from google code repo: http://code.google.com/p/gsm-shield-arduino/
+
+# Related Product
+
+## Mainboard:
+
+  - Gboard (no bluetooth)          http://imall.iteadstudio.com/im120411004.html
+  - Gboard Pro (no bluetooth)      http://imall.iteadstudio.com/im130514001.html
+  - Gboard 800                     http://imall.iteadstudio.com/im141125007.html
+  - Gboard Pro 800                 http://imall.iteadstudio.com/im141125008.html
+
+## Module:
+
+  - SIM900/SIM900A GSM/GPRS Minimum System Module (no bluetooth)  http://imall.iteadstudio.com/im140318007.html
+  - SIM808 GSM/GPRS/GPS Module                                    http://imall.iteadstudio.com/im141125004.html
+  - SIM908 GSM/GPRS/GPS Module (no bluetooth)                     http://imall.iteadstudio.com/sim908-gsm-gprs-gps-module.html
 
 
-For informations and support:
-- http://www.gsmlib.org/
-- http://code.google.com/p/gsm-shield-arduino/
-- http://www.open-electronics.org/arduino-gsm-shield/
-- http://www.futurashop.it/
-
-Basic Function overview: [Overview](https://raw.github.com/MarcoMartines/GSM-GPRS-GPS-Shield/GSMSHIELD/README)
-
-### Install Notes:
-- Download current release:
-	- Generic Version [current](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield/archive/v3.07.1.zip)
-	- TiDiGino Version [current](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield/archive/v3.07_TDG.zip)
-- Extract to your arduino/libraries folder
 
 ### LICENSE:
 GNU GPL v3 except where noted otherwise.
