@@ -1,4 +1,4 @@
-GSM GPRS GPS Bluetooth for SIM800/808/900/908 Shield Library
+GSM GPRS GPS Bluetooth for SIM800/808/900/908 Library
 ======
 
 # Related Product
