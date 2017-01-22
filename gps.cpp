@@ -154,7 +154,7 @@ char GPSGSM::getPar(char *str_long, char *str_lat, char *str_alt, char *str_time
 void parseTime(char *field, int *time)
 {
      ////////////////Time////////////
-     char tmp[4];
+     char tmp[5];
      tmp[2]=0; // Init tmp and null terminate
      tmp[0] = field[8];
      tmp[1] = field[9];
